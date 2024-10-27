@@ -1,0 +1,12 @@
+
+~	java:S125"<This block of commented-out lines of code should be removed.(Ó²í8Êİ±¬2J$24c236bc-3b9d-4b06-bc4b-fb841c9a828f
+m	java:S106""+Replace this use of System.out by a logger.(ØÂÑÁ8œ×ƒŞ¬2J$fe27a0fe-9a2d-4bdd-9292-f4a21e1b9f28
+r	java:S106&"+Replace this use of System.out by a logger.(¸¾µÈıÿÿÿÿ8œ¡…Ş¬2J$9cf7fbfd-3b76-4c19-a45b-89a873dfa51f
+“
+java:S1128"QRemove this unused import 'com.hari.springboot.learnspringboot.service.VegPizza'.(ƒÑ’N8÷•¦³¬2J$0975b487-6cf6-4826-9e9b-8bb7db7d707e
+›
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8Ë×Üİ¬2J$1d273030-d4c6-4fb9-91d9-ce3af2870b21
+›
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Qualifier'.(íàÄ®ıÿÿÿÿ8ÉÌçÆ¬2J$c9ca4b3b-1396-4cb3-aa05-ab2b17054dc7
+
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ8¿»Üİ¬2J$dc0a8def-7265-475e-bacb-7fdb2d229ea7

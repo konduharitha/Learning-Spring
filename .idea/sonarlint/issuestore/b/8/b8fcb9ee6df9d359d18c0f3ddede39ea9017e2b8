@@ -1,0 +1,13 @@
+
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(Çşáùÿÿÿÿ8ÀÿÏù¬2J$6f0eefaf-ae84-4005-b881-feaf4c3c2066
+m	java:S106"+Replace this use of System.out by a logger.(êà›‘8ÁÿÏù¬2J$c57f54f2-cd63-481b-aca8-e4a6057d0a18
+€
+java:S1128"8Remove this unused import 'ch.qos.logback.core.Context'.(í”Øûÿÿÿÿ8òêù¬2J$d9799028-69a6-49ef-9f3b-2e9176cd0b0d
+œ
+java:S1128"TRemove this unused import 'com.hari.springboot.learnspringboot.service.NonVegPizza'.(±ì¿ùÿÿÿÿ8òêù¬2J$cbf24c37-54e7-4e5e-8f2d-2da9cee17090
+“
+java:S1128"QRemove this unused import 'com.hari.springboot.learnspringboot.service.VegPizza'.(ƒÑ’N8òêù¬2J$582fecc9-bfaf-4fcf-b1c9-7deb41ac069c
+€
+java:S1128"8Remove this unused import 'jakarta.el.BeanNameResolver'.(ÏŠşÿÿÿÿ8òêù¬2J$3ce61d1c-55b4-4b9c-8910-5f725fbdfeed
+™
+java:S1128"WRemove this unused import 'org.springframework.context.ConfigurableApplicationContext'.(ÉšêC8òêù¬2J$5101f5f8-9aa0-43cd-a66e-c15574669ec8

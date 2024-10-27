@@ -1,0 +1,14 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î«P8àë´‹¬2J$a9bd8d61-aab6-458b-9775-facdb85a4bfc
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8éë´‹¬2J$ad8b3b74-4b10-453c-9eba-1ea9c2004a53
+r	java:S106"+Replace this use of System.out by a logger.(ÒÊ¸œıÿÿÿÿ8îë´‹¬2J$f3185742-6ccd-4ab9-a716-64c3785e3586
+m	java:S106"+Replace this use of System.out by a logger.(Áó÷¼8ïë´‹¬2J$09d6aeb2-6ba7-4201-8c64-de9f85ba0c07
+r	java:S106"+Replace this use of System.out by a logger.(‰®“áşÿÿÿÿ8ïë´‹¬2J$76115721-940c-4ea9-b0b3-df1ce3a68146
+r	java:S106"+Replace this use of System.out by a logger.(ğÃ“Ğşÿÿÿÿ8ğë´‹¬2J$6083d494-7679-412a-ae17-5e7b73160f16
+m	java:S106"+Replace this use of System.out by a logger.(Ôœïæ8ğë´‹¬2J$0a305faa-a7ae-48f1-8a22-97d7cc69f944
+m	java:S106"+Replace this use of System.out by a logger.(õ€Ãé8ñë´‹¬2J$b5aa80b2-ee6e-4b24-928c-91656dc50b52
+r	java:S106"+Replace this use of System.out by a logger.(¡‡Â‡øÿÿÿÿ8ñë´‹¬2J$43499305-dd2b-4d1d-9e1a-880d53b91dd2
+m	java:S106"+Replace this use of System.out by a logger.(¶°Šó8ƒ¥Â‹¬2J$4af3533e-4fb1-4dba-a6ae-6af06ab7a32f
+Q
+java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8ÑáÆ±¬2
