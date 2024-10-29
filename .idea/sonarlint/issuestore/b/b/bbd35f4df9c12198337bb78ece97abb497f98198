@@ -1,0 +1,26 @@
+
+~
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "book".(¿À ğúÿÿÿÿ8±¯ÔÏ­2
+P
+java:S6837"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8Â¯ÔÏ­2
+P
+java:S6837"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8Ã¯ÔÏ­2
+]	java:S125"<This block of commented-out lines of code should be removed.(èµëøÿÿÿÿ8Ç¯ÔÏ­2
+G	java:S106&"+Replace this use of System.out by a logger.(—óÓ8Ê¯ÔÏ­2
+L	java:S106'"+Replace this use of System.out by a logger.(Ë¹²Òıÿÿÿÿ8Ê¯ÔÏ­2
+F	java:S106("+Replace this use of System.out by a logger.(í¢şX8Ê¯ÔÏ­2
+G	java:S1060"+Replace this use of System.out by a logger.(ö¡¹ê8Í¯ÔÏ­2
+L	java:S1061"+Replace this use of System.out by a logger.(‡ŠÜÿÿÿÿÿ8Í¯ÔÏ­2
+G	java:S1062"+Replace this use of System.out by a logger.(Ãúæ8Î¯ÔÏ­2
+G	java:S106:"+Replace this use of System.out by a logger.(ö¡¹ê8Ï¯ÔÏ­2
+G	java:S106@"+Replace this use of System.out by a logger.(ö¡¹ê8Ï¯ÔÏ­2
+G	java:S106J"+Replace this use of System.out by a logger.(ö¡¹ê8Ğ¯ÔÏ­2
+G	java:S106K"+Replace this use of System.out by a logger.(›æŒÁ8Ò¯ÔÏ­2
+L	java:S106L"+Replace this use of System.out by a logger.(şÅÂ½ûÿÿÿÿ8Ò¯ÔÏ­2
+h
+java:S1128"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8Ó¯ÔÏ­2
+^
+java:S1128
+"ARemove this unused import 'javax.print.attribute.standard.Media'.(‰šäÁ8Ó¯ÔÏ­2
+B
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8Ó¯ÔÏ­2

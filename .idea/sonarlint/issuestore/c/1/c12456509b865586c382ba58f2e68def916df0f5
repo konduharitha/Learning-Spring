@@ -1,0 +1,16 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î«P8¿ÕÓ­2J$42a6fb15-4516-41b8-9a98-3aa6ecaad7cd
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÈÕÓ­2J$cadbdcc6-c33a-4c7a-b12c-763efd3dc72f
+ñ
+java:S6804"­Either replace the "@Value" annotation with a standard field initialization, use "${propertyName}" to inject a property or use "#{expression}" to evaluate a SpEL expression.(Ö‘‘–8ÉÕÓ­2J$eb06a33e-9b87-43c7-85b1-a37582cf1be3
+p
+java:S1068"(Remove this unused "host" private field.(Ø¦øİûÿÿÿÿ8ÏÕÓ­2J$97b621b9-63e3-4061-af04-84d3096a0bc6
+q
+java:S1068")Remove this unused "gmail" private field.(şÕ¶–şÿÿÿÿ8ÏÕÓ­2J$997dc31e-359a-4b13-a533-41e5fef3f3d2
+t
+java:S1068",Remove this unused "password" private field.(œãë­úÿÿÿÿ8ÏÕÓ­2J$ab53a9fa-f93c-48fb-a449-572bb43abf1a
+s
+java:S1068"+Remove this unused "appName" private field.(Ç»Ÿ¿şÿÿÿÿ8ÏÕÓ­2J$3b2b3396-b92f-47b9-a421-95b4f799508a
+z
+java:S1068""2Remove this unused "appDescription" private field.(²á–üùÿÿÿÿ8ÏÕÓ­2J$e7b9258c-18bf-49e5-bc44-3dfcf51f6339

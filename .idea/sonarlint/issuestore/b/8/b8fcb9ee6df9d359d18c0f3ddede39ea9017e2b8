@@ -1,13 +1,11 @@
 
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(Çşáùÿÿÿÿ8ÀÿÏù¬2J$6f0eefaf-ae84-4005-b881-feaf4c3c2066
-m	java:S106"+Replace this use of System.out by a logger.(êà›‘8ÁÿÏù¬2J$c57f54f2-cd63-481b-aca8-e4a6057d0a18
-€
-java:S1128"8Remove this unused import 'ch.qos.logback.core.Context'.(í”Øûÿÿÿÿ8òêù¬2J$d9799028-69a6-49ef-9f3b-2e9176cd0b0d
-œ
-java:S1128"TRemove this unused import 'com.hari.springboot.learnspringboot.service.NonVegPizza'.(±ì¿ùÿÿÿÿ8òêù¬2J$cbf24c37-54e7-4e5e-8f2d-2da9cee17090
-“
-java:S1128"QRemove this unused import 'com.hari.springboot.learnspringboot.service.VegPizza'.(ƒÑ’N8òêù¬2J$582fecc9-bfaf-4fcf-b1c9-7deb41ac069c
-€
-java:S1128"8Remove this unused import 'jakarta.el.BeanNameResolver'.(ÏŠşÿÿÿÿ8òêù¬2J$3ce61d1c-55b4-4b9c-8910-5f725fbdfeed
-™
-java:S1128"WRemove this unused import 'org.springframework.context.ConfigurableApplicationContext'.(ÉšêC8òêù¬2J$5101f5f8-9aa0-43cd-a66e-c15574669ec8
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(–Õ¦¹ıÿÿÿÿ8Š¤ØÓ­2J$2cab7693-5bac-4f11-83a8-2f786d0c6c50
+~	java:S125"<This block of commented-out lines of code should be removed.(É¶ä‘8Š¤ØÓ­2J$9c51ed95-34d3-4752-a78a-308356c9f978
+r	java:S106"+Replace this use of System.out by a logger.(¹Õ©üÿÿÿÿ8‹¤ØÓ­2J$942c0316-2400-47dc-8546-0568a274ba15
+r	java:S106 "+Replace this use of System.out by a logger.(Â×Ãşÿÿÿÿ8‹¤ØÓ­2J$261a9c03-a50b-4f2d-a236-e1fb2e9b41ea
+r	java:S106!"+Replace this use of System.out by a logger.(ß¸À¢ıÿÿÿÿ8Œ¤ØÓ­2J$4725dae8-1434-44ed-863e-0b7f943d268f
+r	java:S106""+Replace this use of System.out by a logger.(İ–†Øÿÿÿÿÿ8Œ¤ØÓ­2J$92f4a5d6-d819-4a90-98a9-6721f36613d8
+m	java:S106#"+Replace this use of System.out by a logger.(ìƒÇà8Œ¤ØÓ­2J$fd6fa5fd-1a6f-4c3b-b60e-e9a070cf960b
+m	java:S106$"+Replace this use of System.out by a logger.(ñïûœ8Œ¤ØÓ­2J$fb15dbda-ead6-4ae0-bbe7-c6756023675d
+m	java:S106%"+Replace this use of System.out by a logger.(‰÷€ã8¤ØÓ­2J$b7fc2b9a-a8d2-4bb8-80f8-f7fe89f32ad7
+r	java:S106&"+Replace this use of System.out by a logger.(ìÁ¿×ıÿÿÿÿ8¤ØÓ­2J$5d7821ae-08c6-4d3c-8f6f-10f6aee4d358
